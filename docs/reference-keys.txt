@@ -111,3 +111,4 @@ restructuring-the-gestalt-approach
 solving-problems-by-analogy
 how-do-experts-solve-problems
 glossary-8
+mental-models
