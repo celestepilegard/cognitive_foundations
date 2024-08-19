@@ -1,7 +1,7 @@
 fig:lan2000
 fig:pharoah
 fig:wundt
-fig:laptop
+fig:covid
 fig:scatter
 fig:scatter2
 fig:love
@@ -63,6 +63,9 @@ fig:candle3
 fig:twostring
 fig:twostring2
 fig:chain2
+fig:creature
+fig:ninedot
+fig:ninedotsolution
 history-and-research-methods
 rise-of-cognitive-psychology
 research-methods-in-psychology
@@ -109,6 +112,7 @@ problem-solving
 what-is-a-problem
 restructuring-the-gestalt-approach
 solving-problems-by-analogy
+creativity
 how-do-experts-solve-problems
 glossary-8
 mental-models
