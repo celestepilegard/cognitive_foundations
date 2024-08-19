@@ -97,6 +97,7 @@ knowledge
 nature-of-categories
 theories-of-concept-representation
 organization-of-concepts
+mental-models
 glossary-6
 language
 what-is-language
@@ -115,4 +116,3 @@ solving-problems-by-analogy
 creativity
 how-do-experts-solve-problems
 glossary-8
-mental-models
