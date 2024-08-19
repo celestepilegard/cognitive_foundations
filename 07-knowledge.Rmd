@@ -105,7 +105,7 @@ How does this theory explain classification? When you see an object, you (uncons
 
 Why would someone propose such a theory of concepts? One answer is that in many experiments studying concepts, people learn concepts by seeing exemplars over and over again until they learn to classify them correctly. Under such conditions, it seems likely that people eventually memorize the exemplars [@Smith1998]. There is also evidence that *close similarity* to well-remembered objects has a large effect on classification. @Allen1991 taught people to classify items by following a rule. However, they also had their subjects study the items, which were richly detailed. In a later test, the experimenters gave people new items that were very similar to one of the old items but were in a different category. That is, they changed one property so that the item no longer followed the rule. They discovered that people were often fooled by such items. Rather than following the category rule they had been taught, they seemed to recognize the new item as being very similar to an old one and so put it, incorrectly, into the same category.
 
-According to the previous theories we have discussed, categorization relies on comparisons with one prototype or a previous sets of exemplars. Causal Model Theory builds upon the prototype and exemplar theories, highlighting how people’s mental representations of categories evolve over time. Causal model theory proposes that people possess subjective theories about what constitutes a category, and these theories are based on a person’s continuously developing knowledge about concepts that focus on causal relationships (i.e. cause-and-effect relationships). 
+According to the previous theories we have discussed, categorization relies on comparisons with one prototype or a previous sets of exemplars. [Causal Model Theory] builds upon the prototype and exemplar theories, highlighting how people’s mental representations of categories evolve over time. Causal model theory proposes that people possess subjective theories about what constitutes a category, and these theories are based on a person’s continuously developing knowledge about concepts that focus on causal relationships (i.e. cause-and-effect relationships). 
 
 Concepts are not learned in isolation, but rather are learned as a part of our experiences with the world around us: as we acquire new information, we update our mental representation of what constitutes a category [@murphy2002]. Importantly, Causal Model Theory does not discount that a person’s subjective theory about what constitutes category membership may include identifying important similarities that unite concepts within that category. However, Causal Model Theory proposes that concept formation relies more heavily on causal relationships that are relevant to a particular category [@Laurence1999-LAUCAC-3]. 
 
@@ -134,7 +134,7 @@ The phenomenon that adjacent concepts are activated is called [spreading activat
 
 ## Mental Models
 
-How do humans use their understanding of concepts to make sense of the world? The mental model theory of reasoning [@Johnson-Laird1991-JOHD-9], proposes that people use mental models to reason about the world. A mental model is a mental representation based on a set of fundamental assumptions that a person believes to be true [@Byrne_Johnson-Laird_2009]. These assumptions can be constructed from perception, imagination, or from discussions with other people [@Byrne_Johnson-Laird_1985]. A mental model is like a mental picture or idea that represents a specific possibility [@Johnson-Laird2002-JOHCAT-12], and which captures the common elements shared by all the different ways that possibility could happen. 
+How do humans use their understanding of concepts to make sense of the world? The mental model theory of reasoning [@Johnson-Laird1991-JOHD-9], proposes that people use mental models to reason about the world. A [mental model] is a mental representation based on a set of fundamental assumptions that a person believes to be true [@Byrne_Johnson-Laird_2009]. These assumptions can be constructed from perception, imagination, or from discussions with other people [@Byrne_Johnson-Laird_1985]. A mental model is like a mental picture or idea that represents a specific possibility [@Johnson-Laird2002-JOHCAT-12], and which captures the common elements shared by all the different ways that possibility could happen. 
 
 :::takeaways
 ##### Key Takeaways {-}
@@ -158,6 +158,9 @@ The neutral, preferred category for a given object, at an intermediate level of 
 
 A set of entities that are equivalent in some way. Usually the items are similar to one another.
 
+##### Causal Model Theory {-}
+Causal Model Theory suggests that people categorize concepts based on evolving subjective theories that emphasize causal relationships, rather than solely on comparisons with prototypes or exemplars.
+
 ##### Cognitive economy {-}
 
 A principle of semantic organization that properties of a category that are shared by many members of a category are stored at a higher-level node in the network.
@@ -169,6 +172,9 @@ The mental representation of a category.
 ##### Exemplar {-}
 
 An example in memory that is labeled as being in a particular category.
+
+#### Mental Model {-}
+A mental representation based on a set of fundamental assumptions that a person believes to be true
 
 ##### Protoype {-}
 
