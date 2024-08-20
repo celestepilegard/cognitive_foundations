@@ -116,3 +116,5 @@ solving-problems-by-analogy
 creativity
 how-do-experts-solve-problems
 glossary-8
+fig:pygramid
+fig:pyramid
