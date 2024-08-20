@@ -117,5 +117,3 @@ solving-problems-by-analogy
 creativity
 how-do-experts-solve-problems
 glossary-8
-theory-of-mind
-goal-directed
