@@ -42,6 +42,7 @@ tab:influences
 fig:bird
 fig:lizard
 fig:network
+fig:pyramid
 fig:kanzi
 fig:model
 fig:speechsounds
@@ -116,5 +117,5 @@ solving-problems-by-analogy
 creativity
 how-do-experts-solve-problems
 glossary-8
-fig:pygramid
-fig:pyramid
+theory-of-mind
+goal-directed

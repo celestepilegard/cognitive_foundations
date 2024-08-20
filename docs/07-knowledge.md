@@ -107,9 +107,7 @@ How does this theory explain classification? When you see an object, you (uncons
 
 Why would someone propose such a theory of concepts? One answer is that in many experiments studying concepts, people learn concepts by seeing exemplars over and over again until they learn to classify them correctly. Under such conditions, it seems likely that people eventually memorize the exemplars [@Smith1998]. There is also evidence that *close similarity* to well-remembered objects has a large effect on classification. @Allen1991 taught people to classify items by following a rule. However, they also had their subjects study the items, which were richly detailed. In a later test, the experimenters gave people new items that were very similar to one of the old items but were in a different category. That is, they changed one property so that the item no longer followed the rule. They discovered that people were often fooled by such items. Rather than following the category rule they had been taught, they seemed to recognize the new item as being very similar to an old one and so put it, incorrectly, into the same category.
 
-According to the previous theories we have discussed, categorization relies on comparisons with one prototype or a previous sets of exemplars. [Causal Model Theory] builds upon the prototype and exemplar theories, highlighting how people’s mental representations of categories evolve over time. Causal model theory proposes that people possess subjective theories about what constitutes a category, and these theories are based on a person’s continuously developing knowledge about concepts that focus on causal relationships (i.e. cause-and-effect relationships). 
-
-Concepts are not learned in isolation, but rather are learned as a part of our experiences with the world around us: as we acquire new information, we update our mental representation of what constitutes a category [@murphy2002]. Importantly, Causal Model Theory does not discount that a person’s subjective theory about what constitutes category membership may include identifying important similarities that unite concepts within that category. However, Causal Model Theory proposes that concept formation relies more heavily on causal relationships that are relevant to a particular category [@Laurence1999-LAUCAC-3]. 
+[Causal Model Theory] builds upon the prototype and exemplar theories, highlighting how people’s mental representations of categories evolve over time. Causal model theory proposes that people possess subjective theories about what constitutes a category, and these theories are based on a person’s continuously developing knowledge about concepts that focus on causal relationships (i.e. cause-and-effect relationships). Concepts are not learned in isolation, but rather are learned as a part of our experiences with the world around us: as we acquire new information, we update our mental representation of what constitutes a category [@murphy2002]. Importantly, Causal Model Theory does not discount that a person’s subjective theory about what constitutes category membership may include identifying important similarities that unite concepts within that category. However, Causal Model Theory proposes that concept formation relies more heavily on causal relationships that are relevant to a particular category [@Laurence1999-LAUCAC-3]. 
 
 ## Organization of Concepts
 
@@ -137,53 +135,51 @@ The phenomenon that adjacent concepts are activated is called [spreading activat
 
 ## Mental Models
 
-How do humans use their understanding of concepts to make sense of the world? The mental model theory of reasoning [@Johnson-Laird1991-JOHD-9], proposes that people use mental models to reason about the world. A [mental model] is a mental representation based on a set of fundamental assumptions that a person believes to be true [@Byrne_Johnson-Laird_2009]. These assumptions can be constructed from perception, imagination, or from discussions with other people [@Byrne_Johnson-Laird_1985]. A mental model is like a mental picture or idea that represents a specific possibility [@Johnson-Laird2002-JOHCAT-12], and which captures the common elements shared by all the different ways that possibility could happen. 
+How do humans use their understanding of concepts to make sense of the world? [Mental Model Theory] [@Johnson-Laird1991-JOHD-9], proposes that people use mental models to reason about the world. A [mental model] is a mental representation based on a set of fundamental assumptions that a person believes to be true [@Byrne_Johnson-Laird_2009]. These assumptions can be constructed from perception, imagination, or from discussions with other people [@Byrne_Johnson-Laird_1985]. A mental model is like a mental picture or idea that represents a specific possibility [@Johnson-Laird2002-JOHCAT-12], and which captures the common elements shared by all the different ways that possibility could happen. 
 
-### Theory of Mind {-}
-Theory of Mind refers to the way people use mental models to understand other people. Theory of mind is the knowledge that others' beliefs, desires, intentions, emotions, and thoughts (i.e. their mental states) may be different from one's own, and that people’s behavior is based on their mental states [@Apperly2009DoHH]. A theory of mind allows adults to construct mental models that explain the motivation behind people’s actions, and to form predictions for how they will act in the future.
+### A Theory of Mind {-}
+[Theory of Mind] refers to the way people use mental models to understand other people. Theory of mind is the knowledge that others' beliefs, desires, intentions, emotions, and thoughts (i.e. their mental states) may be different from one's own, and that people’s behavior is based on their mental states [@Apperly2009DoHH]. A theory of mind allows adults to construct mental models that explain the motivation behind people’s actions, and to form predictions for how they will act in the future.
 
-One of the most fascinating human capacities is the ability to infer other people’s mental states from their behavior (or vice versa: to predict their behavior from knowledge of their mental states). Having an appreciation for the workings of another person’s mind is considered a prerequisite for many of the phenomena that define the human species, such as: natural language acquisition [@baldwin1998word], strategic social interaction [@zhang2012perspective], reflexive thought [@bogdan2000minding], and moral judgment [@guglielmo2009heart]. The capacity to understand the minds of others begins to develop in the first year of life and becomes more robust throughout childhood and into adulthood. 
+Possessing a theory of mind allows us to use our observations of people's behavior to infer their mental states (or vice versa: to predict their behavior from knowledge of their mental states). Having an appreciation for the workings of another person’s mind is considered a prerequisite for many of the phenomena that define the human species, such as: natural language acquisition [@baldwin1998word], strategic social interaction [@zhang2012perspective], reflexive thought [@bogdan2000minding], and moral judgment [@guglielmo2009heart]. The capacity to understand the minds of others begins to develop in the first year of life and becomes more robust throughout childhood and into adulthood. 
 
 #### The Role of Theory of Mind in Social Life {-}
 Imagine you are observing an interaction between two people: a man is standing behind a counter, and a woman hands them a thin plastic object. Without a theory of mind, you would be incapable of understanding this event, or predicting how either person would react to the other. Due to our capacity to infer mental states from behavior, we likely infer that the woman is a customer pulling out her credit card with the intention to pay the cashier behind the register [@baird2001making]. People’s theory of mind thus frames and interprets perceptions of human behavior in a particular way—as observations of agents who act intentionally and who have desires, beliefs, and other mental states that guide their actions [@perner1991understanding; @wellman1990child].
 
-To put it simply, people without a theory of mind would be utterly incapable of making sense of simple social interactions that occur throughout everyday life. Moreover, without a theory of mind, there would probably be no such things as cashiers, credit cards, or money [@tomasello2003key]. Humans need to understand minds to engage in the kinds of complex interactions that social communities (small and large) require, and it is these complex social interactions that have given rise to the innovation of different human cultures around the world.
+People without a theory of mind would be utterly incapable of making sense of simple social interactions that occur throughout everyday life. Moreover, without a theory of mind, there would probably be no such things as cashiers, credit cards, or money [@tomasello2003key]. Humans need to understand minds to engage in the kinds of complex interactions that social communities (small and large) require, and it is these complex social interactions that have given rise to the innovation of different human cultures around the world.
 
 #### What is theory of mind? {-}
-The first thing to note is that “theory of mind” is not a single thing. What underlies people’s capacity to recognize and understand mental states is a whole host of components or a “toolbox” for navigating the social world [@malle2008fundamental]. Figure \@ref(fig:pyramid) shows some of the most important tools. The simple and automatic processes appear at the bottom of the pyramid, and as we move to the upper levels, the processes become increasingly complex and deliberate. This organization also reflects development—from tools that infants display within the first 6–12 months to tools they need to acquire over the next 3–5 years. In the next few sections, we will ascend the pyramid together, and talk about the capacities that make up each level.
+The first thing to note is that “theory of mind” is not a single thing. What underlies people’s capacity to recognize and understand mental states is a whole host of components or a “toolbox” for navigating the social world [@malle2008fundamental]. Figure \@ref(fig:pyramid) shows some of the most important tools. The simple and automatic processes appear at the bottom of the pyramid, and as we ascend to the upper levels, the processes become increasingly complex and deliberate. This organization also reflects development—from tools that infants display within the first 6–12 months to tools they need to acquire over the next 3–5 years. In the next few sections, we will ascend the pyramid together, and talk about the capacities that make up each level.
 
 <div class="figure" style="text-align: center">
-<img src="images/ch7/fig6.jpg" alt="Some of the major tools of theory of mind, with the bottom showing simple, automatic, early developing processes, and the top showing complex, more deliberate, late developing processes. " width="100%" />
+<img src="images/ch7/fig6.png" alt="Some of the major tools of theory of mind, with the bottom showing simple, automatic, early developing processes, and the top showing complex, more deliberate, late developing processes. " width="100%" />
 <p class="caption">(\#fig:pyramid)Some of the major tools of theory of mind, with the bottom showing simple, automatic, early developing processes, and the top showing complex, more deliberate, late developing processes. </p>
 </div>
 
 #### Level 1: Agents, Goals, and Intentionality {-}
 The agent category allows humans to identify those moving objects in the world that can act on their own. Features that even infants can use to identify agents, include: being self-propelled, having eyes or a face, and reacting systematically to another person’s behavior, such as by following their gaze or imitating their actions [@johnson2000; @premack1990]. 
 
-The process of recognizing goals builds on this agent category. Agents tend to engage in actions that are goal directed as they seek out, track, and often physically contact desired objects. Even before the end of their first year, infants recognize that humans reach towards desired objects even when they don’t successfully make contact with the object they are attempting to grab [@GERGELY1995165; @woodward1998]. What it means to recognize goals, therefore, is to see an agent consistently pursue a particular object.
+The process of recognizing goals builds on this agent category. Even before the end of their first year, infants recognize that agents reach towards desired objects even when they don’t successfully make contact with the object they are attempting to grab [@GERGELY1995165; @woodward1998]. What it means to recognize goals, therefore, is to see an agent consistently pursue a particular object. 
 
-Through learning to recognize the many ways by which agents pursue goals, humans learn to identify behaviors that are intentional. The concept of intentionality is more sophisticated than the goal concept. For one thing, people recognize that some behaviors can be unintentional even if they were goal-directed—such as when you possess the earnest goal of impressing your date, but instead, unintentionally make a fool of yourself. To act intentionally you need, aside from a goal, the right kinds of beliefs about how to achieve the goal. Moreover, the adult concept of intentionality requires that an agent have the skill to perform the intentional action in question. For example, if I am flipping a coin to try and have it land on heads, and do so on my first attempt, you would not judge my action of making it land on heads as intentional—you would say it was luck [@malle1997folk].
+Why is it important to recognize the goals of other people? Starting in infancy, humans expect other people's actions to be [goal directed] whereby they seek, track, and act to achieve desired outcomes [@gergely2003teleological; @jara-ettinger2016naive].Through learning to recognize the many ways by which agents pursue goals, humans learn to identify behaviors that are intentional. The concept of [intentionality] refers to the mental states that motivated a person to act. Understanding the intentions that motivate a person's behavior is more complicated than identifying goals, as people sometimes possess intentions that differ from the eventual outcome. In addition, some behaviors can be unintentional even if they were goal-directed—such as when you possess the earnest goal of impressing your date, but instead, unintentionally make a fool of yourself. To act intentionally you need, aside from a goal, the right kinds of beliefs about how to achieve the goal. Moreover, by adulthood, the concept of intentionality requires that an agent have the skill to perform the intentional action. For example, if I am flipping a coin to try and have it land on heads, and do so on my first attempt, you would not judge my action of making it land on heads as intentional—you would say it was luck [@malle1997folk].
 
-#### Level 2: Imitation & automatic empathy {-}
-From childhood, imitation aids in our understanding of other people [@meltzoff2003imitation]. Imitation is the human tendency to carefully observe other people’s behaviors and replicate their actions. A subtle, automatic form of imitation is called mimicry in which people unconsciously copy other people’s behavior. Mimicry can sometimes lead to synchrony whereby people engage in the same behaviors or possess the same internal states. Have you ever noticed when two people in conversation take on similar gestures, body positions, even tone of voice? They “synchronize” their behaviors by way of (largely) unconscious imitation. Interestingly, people who enjoy an interaction tend to synchronize their behaviors more, and increased synchrony can increase enjoyment during a social interaction [@chartrand1999chameleon]. 
-
-Automatic empathy builds on imitation and synchrony in a clever way. If Tim is sad and expresses this emotion in his face and body, and if Elena watches or interacts with Tim, then she will subtly imitate his dejected behavior and, through well-practiced associations of certain behaviors and emotions, she will feel a little sad as well [@sonnbyborgstrom2003emotional]. Thus, she empathizes with him—whether she wants to or not. 
+#### Level 2: Imitation & synchrony {-}
+From childhood, imitation aids in our understanding of other people [@meltzoff2003imitation]. [Imitation] is the human tendency to carefully observe other people’s behaviors and replicate their actions. A subtle, automatic form of imitation is called mimicry in which people unconsciously copy other people’s behavior. [Mimicry] can sometimes lead to [synchrony] whereby people engage in the same behaviors or possess the same internal states. Have you ever noticed when two people in conversation take on similar gestures, body positions, or even tone of voice? They “synchronize” their behaviors by way of (largely) unconscious imitation. Interestingly, people who enjoy an interaction tend to synchronize their behaviors more, and increased synchrony can increase enjoyment during a social interaction [@chartrand1999chameleon]. 
 
 #### Level 3: Joint attention & visual perspective {-}
-Going beyond the automatic, humans are capable of actively engaging with other people’s mental states, such as when they enter into situations of joint attention: two people attending to the same object and being aware that they are both attending to it. Such shared engagement is critical for children to learn the meaning of objects, and throughout adulthood to successfully work with other people. When I hold up my keyboard and show it to you, we are jointly attending to it, and if I then say it’s called “Tastatur” in German, you know that I am referring to the keyboard and not to the table on which it had been resting.
+Going beyond the automatic, humans are capable of actively engaging with other people’s mental states, such as when they enter into situations of [joint attention]: two or more people attending to the same object and being aware that they are mutually attending to it. Such shared engagement is critical for children to learn the meaning of objects, and throughout adulthood to successfully work with other people. When I hold up my keyboard and show it to you, we are jointly attending to it, and if I then say it’s called “Tastatur” in German, you know that I am referring to the keyboard and not to the table on which it had been resting.
 
-Another important capacity of engagement is visual perspective taking which refers to perceiving something from another person’s physical viewpoint. Pretend you are sitting at a dinner table and advise another person on where the salt is—do you consider that it is to her left even though it is to your right? When we overcome our egocentric perspective this way, we imaginatively adopt the other person’s spatial viewpoint and determine how the world looks from their perspective. 
+Another important capacity of engagement is [visual perspective taking] which refers to perceiving something from another person’s physical viewpoint. Pretend you are sitting at a dinner table and advise another person on where the salt is—do you consider that it is to her left even though it is to your right? When we overcome our egocentric perspective this way, we imaginatively adopt the other person’s spatial viewpoint and determine how the world looks from their perspective. 
 
 #### Level 4: Projection & simulation (egocentrism) {-}
 
-When imagining what it might be like to be in another person’s psychological position, humans must go beyond mental rotation. One tool to understand other people’s thoughts and feelings is simulation: the process of representing other people’s mental states. Imagining a situation from another person’s perspective is a useful tool in understanding what motivated them to act. This often proves difficult to do effectively, as people are often influence by their own mental states and engage in social projection whereby they assume other people think, feel, or desire the same things they do [@meltzoff2007like; @krueger2007social]. 
+When imagining what it might be like to be in another person’s psychological position, humans must go beyond mental rotation. One tool to understand other people’s thoughts and feelings is [simulation]: the process of representing other people’s mental states. Imagining a situation from another person’s perspective is a useful tool in understanding what motivated them to act. This often proves difficult to do effectively, as people are often influence by their own mental states and engage in social projection whereby they assume other people think, feel, or desire the same things they do [@meltzoff2007like; @krueger2007social]. 
 
-In a sense, social projection is an absence of perspective taking, because we assume that the other person’s perspective equals our own. Have you ever been surprised that friend missed the obvious point of a movie that seemed so clear to you? Or that everyone is going to stare at the pimple on your forehead that appeared that same morning? In these kinds of situations, people find it difficult to suppress their own knowledge and overestimate the likelihood that other people will share their perspective [@keysar1994illusory], and how attentive other people will be to the things they are focused on [@gilovich1999spotlight]. So, the next time when you spot a magnificent bird high up in the tree and you get impatient with your friend who just can’t see what is clearly obvious, remember: it’s obvious to you.
+In a sense, [social projection] is an absence of perspective taking, because we assume that the other person’s perspective equals our own. Have you ever been surprised that friend missed the obvious point of a movie that seemed so clear to you? Or that everyone is going to stare at the pimple on your forehead that appeared that same morning? In these kinds of situations, people find it difficult to suppress their own knowledge and overestimate the likelihood that other people will share their perspective [@keysar1994illusory], and how attentive other people will be to the things they are focused on [@gilovich1999spotlight]. So, the next time when you spot a magnificent bird high up in the tree and you get impatient with your friend who just can’t see what is clearly obvious, remember: it’s obvious to you.
 
 #### Level 5: Mental state inference {-}
-The ability to truly take another person’s perspective requires that we separate our mental states from those of other people. To do so humans make use of their general knowledge of how people will respond to a situation (“Everybody would be nervous when threatened by a man with a gun”) and agent-specific knowledge (“Joe is fearless because he was trained in martial arts”). People also use the perceived facts and context of the situation, such as what is happening to the agent, the agent’s facial expressions and behaviors, and what the person saw or didn’t see. 
+The ability to truly take another person’s perspective requires that we separate our mental states from those of other people. To do so humans make use of their general knowledge of how people tend to respond to a situation (“Everybody would be nervous when threatened by a man with a gun”) and agent-specific knowledge (“Joe is fearless because he was trained in martial arts”). People also use the perceived facts and context of the situation, such as what is happening to the agent, the agent’s facial expressions and behaviors, and what the person saw or didn’t see. 
 
-This capacity of integrating multiple lines of information into a mental-state inference develops steadily within the first few years of life [@wellman2001meta]. The research began with a clever experiment by @wimmer1983beliefs, who tested whether children can pass a false-belief test. In this experiment, children are asked whether a person who possesses a false belief (i.e. a belief that contradicts reality) will act in accordance with their false belief or whether children expect the person to act in accordance with the child’s accurate knowledge of the situation. 
+This capacity of integrating multiple lines of information into a [mental state inference] develops steadily within the first few years of life [@wellman2001meta]. The research began with a clever experiment by @wimmer1983beliefs, who tested whether children can pass a false-belief test. In this experiment, children are asked whether a person who possesses a false belief (i.e. a belief that contradicts reality) will act in accordance with their false belief or whether children expect the person to act in accordance with the child’s accurate knowledge of the situation. 
 
 Children in the false-belief task were shown a picture book. In the book, Sally puts her ball in a basket and leaves the room. While Sally is out of the room, Anne comes along and takes the ball from the basket and puts it inside a box. The child is then asked where Sally thinks the ball is located when she comes back to the room. Is she going to look first in the box or in the basket?
 
@@ -207,6 +203,7 @@ We have seen that the human understanding of other minds relies on many tools. P
 :::
 
 ## Glossary
+
 ##### Basic-level category {-}
 
 The neutral, preferred category for a given object, at an intermediate level of specificity.
@@ -230,8 +227,37 @@ The mental representation of a category.
 
 An example in memory that is labeled as being in a particular category.
 
-#### Mental Model {-}
+##### Goal Directed {-}
+
+An agent's behavior that is motivated by a desire to seek, track, or obtain a particular outcome. 
+
+##### Imitation {-}
+
+The conscious observation and replication of other people’s behavior. 
+
+##### Intentionality {-}
+
+Mental states that motivate people's actions.
+
+##### Joint Attention {-}
+
+Two or more people attending to the same object and being aware that they are mutually attending to it
+
+##### Mental Model {-}
+
 A mental representation based on a set of fundamental assumptions that a person believes to be true
+
+##### Mental Model Theory {-}
+
+Mental Model Theory proposes that people use mental models to reason about the world, mapping out different possibilities based on a set of fundamental assumptions
+
+##### Mental State Inference {-}
+
+Generating a belief about a person's mental states. Inferences can be based on observations of how a person behaves, knowledge of the person, knowledge of how people generally act, or on knowledge of contextual factors of a situation. 
+
+##### Mimicry {-}
+
+Unconsciously imitating another person's behavior
 
 ##### Protoype {-}
 
@@ -241,10 +267,30 @@ The most typical category member.
 
 A theory of concept representation that people have a summary representation of a category that is meant to apply to the category as a whole.
 
-##### Spreading activation {-}
+##### Simulation {-}
+
+The process of representing a different person’s mental states.
+
+##### Social Projection {-}
+
+A person's assumption that another person possesses identical mental states.
+
+##### Spreading activation {-}  
 
 When a concept is activated in memory, related concepts also increase in activation.
+
+##### Synchrony {-}
+
+Two or more people displaying the same behaviors or having the same internal states (typically because of mutual mimicry).
+
+##### Theory of Mind {-}
+
+The human capacity to understand minds, a capacity that is made up of a collection of concepts (e.g., agent, intentionality) and processes (e.g., goal detection, imitation, empathy, perspective taking).
 
 ##### Typicality {-}
 
 The difference in “goodness” of category members, ranging from the most typical (the prototype) to borderline members.
+
+##### Visual Perspective Taking {-}
+
+Attempting to visualize something from another person’s spatial vantage point.
